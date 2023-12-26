@@ -8,6 +8,8 @@ import { setDataProduct } from './redux/productSlide';
 import { useDispatch, useSelector } from 'react-redux';
 
 
+
+
 function App() {
   const dispatch = useDispatch();
   const productData = useSelector((state) => state.product);
@@ -17,6 +19,12 @@ function App() {
     const fetchData = async () => {
       try {
         const res = await fetch(`${process.env.REACT_APP_SERVER_DOMIN}/product`);
+        
+        const serverDomain = process.env.REACT_APP_SERVER_DOMAIN;
+        const adminEmail = process.env.REACT_APP_ADMIN_EMAIL;
+
+        console.log('Server Domain:', serverDomain);
+        console.log('Admin Email:', adminEmail);
         
         if (!res.ok) {
           throw new Error('Network response was not ok');

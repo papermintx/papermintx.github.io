@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/myMarket/static/css/main.e15b1988.css",
-    "main.js": "/myMarket/static/js/main.02857c35.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/myMarket/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/3337220005.png": "/myMarket/static/media/3337220005.8c8ac2cf9d1f47cad564.png",
-    "static/media/User.gif": "/myMarket/static/media/User.de945392e657efff65e8.gif",
-    "static/media/3337220025.jpg": "/myMarket/static/media/3337220025.249023369a3c9a041be1.jpg",
-    "static/media/3337220087_Satria Khaylan Algibrani.jpg": "/myMarket/static/media/3337220087_Satria Khaylan Algibrani.ac8f1154e0aa5692dff6.jpg",
-    "index.html": "/myMarket/index.html",
-    "main.e15b1988.css.map": "/myMarket/static/css/main.e15b1988.css.map",
-    "main.02857c35.js.map": "/myMarket/static/js/main.02857c35.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/myMarket/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/static/css/main.e15b1988.css",
+    "main.js": "/static/js/main.dab409e1.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/3337220005.png": "/static/media/3337220005.8c8ac2cf9d1f47cad564.png",
+    "static/media/User.gif": "/static/media/User.de945392e657efff65e8.gif",
+    "static/media/3337220025.jpg": "/static/media/3337220025.249023369a3c9a041be1.jpg",
+    "static/media/3337220087_Satria Khaylan Algibrani.jpg": "/static/media/3337220087_Satria Khaylan Algibrani.ac8f1154e0aa5692dff6.jpg",
+    "index.html": "/index.html",
+    "main.e15b1988.css.map": "/static/css/main.e15b1988.css.map",
+    "main.dab409e1.js.map": "/static/js/main.dab409e1.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e15b1988.css",
-    "static/js/main.02857c35.js"
+    "static/js/main.dab409e1.js"
   ]
 }

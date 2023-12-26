@@ -1,5 +1,5 @@
 {
-  "homepage": "https://papermin.me/myMarket",
+  "homepage": "https://papermintx.github.io",
   "name": "frontend",
   "version": "0.1.0",
   "dependencies": {
@@ -8,6 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "dotenv": "^16.3.1",
+    "env-cmd": "^10.1.0",
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
