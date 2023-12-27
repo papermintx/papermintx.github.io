@@ -19,7 +19,7 @@ function App() {
     const fetchData = async () => {
       try {
           
-        const res = await fetch('http://localhost:8080/product');
+        const res = await fetch('http://20.127.167.94:8080/product');
        
         if (!res.ok) {
           throw new Error('Network response was not ok');
@@ -30,7 +30,6 @@ function App() {
         dispatch(setDataProduct(resData));
       } catch (error) {
         console.error('Error fetching data:', error.message);
-        // Handle the error here, e.g., set an error state or show a message to the user
       }
     };
 
