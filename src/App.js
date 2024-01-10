@@ -19,7 +19,7 @@ function App() {
     const fetchData = async () => {
       try {
           
-        const res = await fetch('http://20.127.167.94/product');
+        const res = await fetch("https://serverweb-3t0g.onrender.com/product");
        
         if (!res.ok) {
           throw new Error('Network response was not ok');
