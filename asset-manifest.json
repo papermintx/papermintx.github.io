@@ -1,19 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.e15b1988.css",
-    "main.js": "/static/js/main.24b7a884.js",
+    "main.js": "/static/js/main.19ac0d26.js",
     "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/3337220005.png": "/static/media/3337220005.8c8ac2cf9d1f47cad564.png",
+    "static/media/3337220005_M. Syafiq Agil.png": "/static/media/3337220005_M. Syafiq Agil.8c8ac2cf9d1f47cad564.png",
     "static/media/User.gif": "/static/media/User.de945392e657efff65e8.gif",
-    "static/media/3337220025.jpg": "/static/media/3337220025.249023369a3c9a041be1.jpg",
+    "static/media/3337220063_Fandi Febrian W.jpg": "/static/media/3337220063_Fandi Febrian W.b9adf5d2ae9ccc2d997e.jpg",
+    "static/media/3337220008_M Maulana Mansurudin.png": "/static/media/3337220008_M Maulana Mansurudin.6ca5c42e1c188edc2deb.png",
+    "static/media/3337220104_Dayu Ratma Wijaya.png": "/static/media/3337220104_Dayu Ratma Wijaya.505a3d910ea106e25da3.png",
+    "static/media/3337220025_Muhamad Muslih.jpg": "/static/media/3337220025_Muhamad Muslih.249023369a3c9a041be1.jpg",
+    "static/media/3337220020_Zahra Ayu Rimbani.jpg": "/static/media/3337220020_Zahra Ayu Rimbani.9301a41a5d8ab0480191.jpg",
+    "static/media/3337220085_Ajriyatussururi Putri Maharani.jpg": "/static/media/3337220085_Ajriyatussururi Putri Maharani.f230e858a554d8fd0ec7.jpg",
+    "static/media/3337220093_Atha Nabil Aqila.jpg": "/static/media/3337220093_Atha Nabil Aqila.92708890c6aad589f46d.jpg",
     "static/media/3337220087_Satria Khaylan Algibrani.jpg": "/static/media/3337220087_Satria Khaylan Algibrani.ac8f1154e0aa5692dff6.jpg",
     "index.html": "/index.html",
     "main.e15b1988.css.map": "/static/css/main.e15b1988.css.map",
-    "main.24b7a884.js.map": "/static/js/main.24b7a884.js.map",
+    "main.19ac0d26.js.map": "/static/js/main.19ac0d26.js.map",
     "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e15b1988.css",
-    "static/js/main.24b7a884.js"
+    "static/js/main.19ac0d26.js"
   ]
 }
